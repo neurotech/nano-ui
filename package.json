@@ -1,6 +1,6 @@
 {
   "name": "nano-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tiny UI framework.",
   "repository": {
     "type": "git",

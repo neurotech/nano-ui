@@ -1,0 +1,11 @@
+## Interface: 100206
+## X-Curse-Project-ID: -1
+## Title: |cff9560FFnano|r-|cffd5bfffui|r
+## Notes: A tiny UI framework.
+## URL: https://www.curseforge.com/wow/addons/nano-ui
+## Author: neurotech
+## Version: @project-version@
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+nano-ui.lua
